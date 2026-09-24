@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "dictionaries": [
+    {
+      "lang": "en",
+      "name": "English",
+      "file": "en.tsv.gz",
+      "bytes": 5718448,
+      "unpacked": 19110016,
+      "words": 151555,
+      "sha256": "9f7e6fe51122f5016151a1f4abeb1f3e563c491658126b5ca25a5148c1e1f670",
+      "version": "3.1",
+      "source": "WordNet 3.1"
+    }
+  ]
+}
